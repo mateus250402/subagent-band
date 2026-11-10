@@ -1,0 +1,5 @@
+{
+  "name": "subagent-band",
+  "owner": { "name": "mateus250402" },
+  "plugins": [{ "name": "subagent-band", "source": "./" }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "subagent-band",
+  "version": "0.2.0",
+  "description": "Painel lateral com os subagentes ativos, a tarefa e o tempo decorrido",
+  "types": "./types/index.d.ts"
+}
